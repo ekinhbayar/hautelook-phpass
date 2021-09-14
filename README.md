@@ -1,3 +1,9 @@
+hautelook/phpass fork
+===========================
+This repository exists only because hautelook/phpass repository was deleted. I'm planning to add tests and probably
+will attempt at a PHP ^8 version of this at some point in the future, however, I can't promise at all that I'll keep
+maintaining this library.
+
 Openwall Phpass, modernized
 ===========================
 
