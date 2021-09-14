@@ -33,7 +33,7 @@ Add this requirement to your `composer.json` file and run `composer.phar install
 
     {
         "require": {
-            "ekinhbayar/hautelook-phpass": "1.0.0"
+            "ekinhbayar/hautelook-phpass": "1.1.0"
         }
     }
 
